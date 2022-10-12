@@ -23,8 +23,6 @@ testimonials:
       text: "Det har vært utrolig kjekt og effektivt å kunne jobbe sammen på en smidig måte, slik at vi raskt kunne ta brukerbehov til UML-modell og verifisere tilbake med brukere og eksperter. Vi har begge lært mye av hverandre underveis og får tilbakemelding om at det har vært en spennende prosess å være med på fra brukerne i prosjektet."
 ---
 
-Prosjektet Norsk digital havneinfrastruktur skal etablere en digital infrastruktur i norske havner, som vil effektivisere og endre måten havnen drives på.
-
 # Etablering av digital infrastruktur i norske havner
 
 Prosjektet Norsk digital havneinfrastruktur – som er godt i gang, skal etablere en digital infrastruktur i norske havner, som vil effektivisere og endre måten havnen drives på.
