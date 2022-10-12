@@ -4,7 +4,7 @@ layout: home
 page_header_image: "/assets/images/headers/IMG_1756_crop.jpg"
 
 
-# Testimonials
+# Testimonials 
 testimonials:
   heading: "Våre tanker"
   description: "Dette har de som har vært med å arbeide på prosjektet å si."
@@ -19,7 +19,7 @@ testimonials:
       text: "Gjennom stor grad av tillit mellom aktørene, transparente prosesser og felles målsetninger- har Norge forutsetninger til å lykkes på en måte som andre nasjoner vil ha utfordringer med å kopiere. Dette initiativet vil ha en stor betydning når det kommer til å styrke konkurransevilkår for nærskipsfarten de neste 3-10 årene."
     - name: "Matilde Skår & Maléne Peterson"
       position: "Kartverket & Norkart"
-      image: "/assets/images/portraits/Matilde_skår.png"
+      image: "/assets/images/portraits/Matilde_og_Malene.jpg"
       text: "Det har vært utrolig kjekt og effektivt å kunne jobbe sammen på en smidig måte, slik at vi raskt kunne ta brukerbehov til UML-modell og verifisere tilbake med brukere og eksperter. Vi har begge lært mye av hverandre underveis og får tilbakemelding om at det har vært en spennende prosess å være med på fra brukerne i prosjektet."
 ---
 
